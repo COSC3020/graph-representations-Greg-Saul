@@ -18,7 +18,7 @@ most important part. Add your answer to this markdown file.
 
 ## My reasoning
 
-The runtime for this program would be $n^2$ because there are nested for loops that each run n times and there is a compare in the inner loop.
+The runtime for this program would be $n^2$ (where $n$ is the number of vertices in the graph)because there are nested for loops that each run n times and there is a compare in the inner loop.
 
 ## Bonus
 

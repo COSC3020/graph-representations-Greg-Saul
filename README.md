@@ -20,3 +20,7 @@ most important part. Add your answer to this markdown file.
 
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
+
+### Sources
+
+https://www.youtube.com/watch?v=4R7chuhzq7k -> used this to get a good visual representation of graphs to adjacency lists and matrixes
